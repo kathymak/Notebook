@@ -10,6 +10,7 @@ There were numerous times where my model would fail due to this especially using
 
 
 
+While doing this project and reflecting on the result, I was constantly reminded by the lectures within this course. One big theme that was reoccuring was the idea whether a replicant was the same as the original and furthermore, does this allow people to experience something that they may never have the chance. This was mainly taked near the beginning of the course but this also applies to the Yousuf Karsh bust. This sculpture has captured the success and image of the photographer which has passed away for many years. While this man is not alive anymore, we can still study this sculpture and learn about his achievements and influence within Ottawa. Without this sculpture, the public would have limited knowledge of this man. This also connects to the reading on Jan.31 about filling the void with casts of humans as a display. In a sense this is similar as the creation of this bust and even the display of an individual who is not alive anymore can be seen to move amongst the grid of persistance vs. permeability.
 
 
 
@@ -20,11 +21,9 @@ There were numerous times where my model would fail due to this especially using
 
 
 
-Biblography
 
 
 
 
 
 
-Gardner, S. (2017) “New exposure for master portrait photographer Yousuf Karsh., CBCNews Available at: web.archive.org/web/20170716111509/http://www.cbc.ca/news/canada/ottawa/new-exposure-for-master-portrait-photographer-yousuf-karsh-1.4088732. (Accessed: February 3, 2018).
