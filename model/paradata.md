@@ -12,4 +12,19 @@ There were numerous times where my model would fail due to this especially using
 
 
 
+
+
+
+
+
+
+
+
+Biblography
+
+
+
+
+
+
 Gardner, Simon. “New exposure for master portrait photographer Yousuf Karsh.” CBCNews, Cbcnews, 28 Apr. 2017, web.archive.org/web/20170716111509/http://www.cbc.ca/news/canada/ottawa/new-exposure-for-master-portrait-photographer-yousuf-karsh-1.4088732.
