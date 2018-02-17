@@ -1,0 +1,7 @@
+downloaded Meshlab for Window 64
+opened the program
+clicked file and import mesh
+this opened up a new window and I had to select my 3D model from module #1 and the obj. file was available to be imported
+at first it says that there was an error and this file was not available as it could not be located
+clicked next in the window
+the program loaded a bit, stopped responding and once I waited a bit the 3D model of the bust I had made was loaded into the Meshlab
