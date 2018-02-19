@@ -1,6 +1,7 @@
 after taking a break from working on this assignment and reflecting on what I wanted to do, I had decided to use another program called Meshmixed as it seemed much more simple
 I still wanted to work with the artemis statue so I had imported this into Meshmixed by clicking file and then import
 I browsed around sketchfab a bit and found a bust of Nefertiti. This would be perfect to remix, not only it reflects some topics discussed within the course but both figures represent similar values which was femininity, power and womenhood. I plan to replace Artemis head with the bust of Nefertiti
+Found a bust of Nefertiti's head on https://sketchfab.com/models/5384a815841145df94a86a492f0491ea?ref=related#
 I opened Meshmixed, with the statue of Artemis already imported, I clicked import from the file slection again and I clicked append for the window which popped up
 Once Meshmixer tried to import this statue, there was a notification saying this statue size would be disporportionate and has asked me if I wanted Meshmixer to attempt to fix this, which I clicked yes
 After letting this program load a bit, both the artemis and bust of Nefertiti is now loaded into the program, all I need to do is to figure out how to resize the head and to move it around. 
@@ -10,3 +11,4 @@ Once the bust is close to the Statue of Artemis and the size is similar, I click
 After the head was covered in orange, i click the delete button within the Edit menu on the left side and this deleted the orange area which I can now replace with Netertiti's head. 
 I then click on the bust layer and continue to drag it until the head was in the correct position
 Finally I used the Sculpt button and selected the drag tool from the brush section so that I could blend the two model together more smoothly
+Once the sculpture looks good, I clicked "export" on the file option and this gave me a Obj. and MTL file only
