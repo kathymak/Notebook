@@ -8,4 +8,4 @@ To reduce the file, I clicked the select tool on the right, painted a small sect
 After this, I went into edit and clicked "reduce"
 This gave me a slice which allows me to choose how many percentage I would like to reduce the file to, I slide it up to around 70%
 Next I changed the setting do I can alter the number of triangles which could be found in the option right under percentage, I set this slider to three quarter of the way 
-Lastly, I click export in the stl. file to further reduce the size
+Lastly, I click export in the .obj file to further reduce the size and from there I had put all those file into a Zip folder to compress it further
