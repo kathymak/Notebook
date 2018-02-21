@@ -1,0 +1,11 @@
+Upon trying to open my model with the .obj and .mtl file, I quickly noticed that this only imported one of the statue which I had edited rather than both the Artemis statue with Nefertiti's head. 
+I reopened MeshMixer, shift clicked on the layers found in the window to the left and clicked combine. This gave me one solid object
+After, I had tried exporting this file again, this time it gave me .mtl .obj and texture files
+I then attempted to upload it on github and sketchfab only to find that the files are way too large to be uploaded.
+I looked online and found this youtube video with instructions on how to reduce the polygon count which reduce the file size
+this is the video https://www.youtube.com/watch?v=921cDYBpuL4
+To reduce the file, I clicked the select tool on the right, painted a small section which turned orange indicating it was selected and then I went back into the toolbar in the right and clicked "select all"
+After this, I went into edit and clicked "reduce"
+This gave me a slice which allows me to choose how many percentage I would like to reduce the file to, I slide it up to around 70%
+Next I changed the setting do I can alter the number of triangles which could be found in the option right under percentage, I set this slider to three quarter of the way 
+Lastly, I click export in the stl. file to further reduce the size
