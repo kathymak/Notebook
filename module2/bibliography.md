@@ -20,6 +20,8 @@ Egyptian King. Retrieved February 22, 2018, from https://www.britannica.com/topi
 
 Geoffrey, M. (2017). Artemis and Ifigenia. Retrieved February 22, 2018, from https://sketchfab.com/models/fb439a554d0644bc9dae735d39886e9b
 
+Gunkel, D. J. (2008). Rethinking the Digital Remix: Mash‐ups and the Metaphysics of Sound Recording. Popular Music and Society, 31(4), 489–510. http://doi.org/10.1080/03007760802053211
+
 Jacob, S. (2016, February 25). "The copy in contemporary culture is both despised and feared". Retrieved February 22, 2018, from https://www.dezeen.com/2016/02/25/sam-jacob-opinion-column-copying-conservation-contemporary-culture-queen-other-nefertiti/
 
 mrchlblng. (2016). The Other Nefertiti. Retrieved February 22, 2018, from https://sketchfab.com/models/5384a815841145df94a86a492f0491ea?ref=related#
