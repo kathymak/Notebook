@@ -5,3 +5,6 @@ used '' insert text here '' to start off my story in the first section to tell a
 after writting the introduction to the story, i put [[ next ]] to continue the story
 put in the beginning of the backstory explaining who you are and the situation then continued it with [[ what are the rumours? ]]
 expanded on the story and split the story into two choices, [[ investigate at night]]  [[investigate in the day ]]
+tried to add a random dice rolling factor for the [[investigate in the day ]]
+Looked it out from the twine cook book and used  <<print random(1,4) >> from sugarcube and this didnt work, this text just showed up exactly how the code was
+Looked back at the twine cook book and used  (random: 1, 100) and this gave me a random number so this worked
