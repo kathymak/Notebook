@@ -5,3 +5,10 @@ Second ending made through this merging
 Created a section to allow the character to enter the pyramid using [[enter pyramid]] that can be done by clicking the [[appoach it]] story line choice
 New section for the beginning to start going out to investigate at night and built on the story
 Merge the daytime line of approaching the merchants and resting at night with the beginning of the story where you initially choose to explore nightime in the first place
+made a decision [[Take a chance and trust your feelings]]
+for the random chance i use (random: 1, 100) to create a random number generator
+Created a two storyline with number generator, one for 1-30 and other 31-100
+If you rolled 1-30, you become lost in the desert requiring you to roll again with (random: 1, 100) and if you roll 1-49 you find a glow in the distance giving you a chance to [[Approach this glow in the distance]] where you are saved and can set out at another day, giving another ending
+If you choose [[ Keep wondering as you are convince this is a bandit camp]] it will be game over as you are attacked by wild animals
+Rolling 50-100 from hoping to find a nearby town will be gameover instantly similar to [[ Keep wondering as you are convince this is a bandit camp]] ending
+Created a storyline for rolling 1-30 where you find the pyramid and have it merge with the day time story once you enter the temple
