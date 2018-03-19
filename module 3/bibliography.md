@@ -3,6 +3,7 @@ Throughout the making of this model, I had looked at various programs to see whi
 During the creation of this game, one of the topics we talked about on February 26 regarding the consequences of your actions within a game. This greatly reflects my own choose your own adventure story as there are numerous outcomes depending what on your choice of action. These consequences can lead to something rewarding, a good or bad ending. One article which I had read for the entry ticket was the Walking Simulator work from March 14. While I could not annotate anything from my computer onto that document, the idea that you create your own narration stuck me. This was something that was talked about in class where a story does not have to be linear but it can unfold as you explore or slowly progress through it. This could be applied to my interactive module as the players has a different story depending on the choices and action they choose
 
 Bibliography:
+
 Welcome to the Twine Cookbook!. (n.d.). Retrieved March 19, 2018, from https://twinery.org/cookbook/
 
 Tennant, E. G. (2016). Archaeological Walking Simulator. The SAA Archaeological Records, 16(5), 23-28. Retrieved March 18, 2018, from http://onlinedigeditions.com/publication/?i=356358#{"issue_id":356358,"page":30}
