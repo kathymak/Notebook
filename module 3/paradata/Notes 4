@@ -1,0 +1,12 @@
+Once you enter the pyramid, you are given two option [[Descent lower into the pyramid]] which will let you progress
+[[Continue walking towards the dripping noise]] will lead you to a damp room filled with jars and treasures but this might also lead to game over if you decide to loot the jars and treasure
+Created an option to not loot the chests from the treasure trap room and merge it with the story, leading down towards the basement of the pyramid
+combine the two story line from initially deciding to go down the stairs and not looting the room
+Start of the end game sequence with [[proceed]]
+Created the next section where you are faced with a long passage. there is the option to [[Hug the wall and walk through the passage]] where nothing happens and you continue to story
+Second option is [[Run through it as fast as you can ]] where you hear a click but nothing happens, you continue
+In the last area of the game, you have the option to [[Look inside the Queen's coffin]] where this will inflict a curse on the queen and end the game
+Second option is [[Search the room]] where you will find the artifact near a statue and you will be given more options
+Once you search the room, the statue will come to life as you pick up the artifact, giving you two final choices
+[[Grab the bow and run]] will be game over
+[[put back the bow ]] will let you live and have the power from the maiden (Ifigenia) which represents strength and bravery hence the good ending
