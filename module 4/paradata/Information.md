@@ -1,0 +1,3 @@
+For this last module, I had tried to venture out of my comfort zone and decided to try out Aurasma by HP. This was a free to use pc program which allowed me to attach a 3D model to a trigger image which requires the phone. My original idea was to have a series of dots as a trigger image to reveal my 3D Artemis and Nefertiti module 2 remix. The main reason why I chose a series of dots rather than an image or sceneary is because the dots were easy to recreate with minimal effort. If the person wishes, they could simply draw the dots onto a paper, their surrounding or even on their hands and arms for the 3D model to pop up. This easy access and recreation would allow many audience to experience the AR. 
+
+Unfortunatly
