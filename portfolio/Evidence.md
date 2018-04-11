@@ -1,0 +1,1 @@
+Your evidence can include screenshots, links to files in your notebook, repo, paradata, process notes, hypothesis annotations... if you left digital traces, you can fold those into this final piece of work.
