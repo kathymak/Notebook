@@ -1,0 +1,1 @@
+This portfolio/reflection/whatever-you-call-it can be very personal, or it can try to be a formal piece of work. It should be something that you are proud to show someone else from outside this class: it will, after all, live on the open web (unless you have privacy concerns and have made an arrangement with me in this regard)
